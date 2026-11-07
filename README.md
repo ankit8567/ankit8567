@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **ankitsri2911@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-🔭 I’m currently working on Building full - stack web applications using React, Node.js, & Type Script.<br>👯 I’m looking to collaborate on Open - source developer productivity tools & libraries.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Advanced system design and cloud architecture<br>💬 Ask me about Building scalable APIs and clean frontend UI/UX.<br>
+🔭 I’m currently working on Building full - stack web applications using React, Node.js, & Type Script.<br>👯 I’m looking to collaborate on Open - source developer productivity tools & libraries.<br>🤝 I’m looking for help with Machine Learning Integration and advanced optimization techniques.<br>🌱 I’m currently learning Advanced system design and cloud architecture<br>💬 Ask me about Building scalable APIs and clean frontend UI/UX.<br>
 
 
 ## 🌐 Socials:
